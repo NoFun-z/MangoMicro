@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Mango.Services.CouponAPI.Controllers
+namespace Mango.Services.AuthAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
